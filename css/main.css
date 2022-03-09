@@ -2,6 +2,9 @@ h1{
     color:rgb(93, 6, 6); 
     text-align: center;
 }
+h1:hover {
+    text-transform:uppercase;
+}
 
 h2{
     color:rgb(93, 6, 6);
